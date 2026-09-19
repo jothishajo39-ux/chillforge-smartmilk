@@ -4,7 +4,7 @@
 
 SmartMILK is an IoT-enabled, solar-powered milk chilling can that keeps raw milk cool without relying on grid electricity — built for small-scale and rural dairy farmers. A Phase Change Material (PCM) layer stores cooling energy to cut continuous power draw, while an ESP32 control unit monitors temperature, drives the cooling relay, and displays live status on an LCD.
 
-🔗 **Live Dashboard:** [smart-milk-keeper.lovable.app](https://smart-milk-keeper.lovable.app)
+🔗 **Live Dashboard:** https://smart-milk-keeper.lovable.app 
 
 ---
 
